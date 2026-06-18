@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Output files that are regenerated
+topsis_sonuclari.csv
+thesis_text.txt
+
+# Office temp files
+~$*.docx
